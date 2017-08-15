@@ -1,0 +1,16 @@
+<fest:template xmlns:fest="http://fest.mail.ru" context_name="json">
+    <fest:doctype>html</fest:doctype>
+    <html>
+    
+        <fest:include context="json.head" src="./../../blocks/head.xml"/>
+  
+        <body>
+            <div class="header">
+                <h1>Render<fest:space/><fest:value>json.name</fest:value></h1>
+            </div>
+
+            <fest:include context="json" src="./../../blocks/footer.xml"/>
+            
+        </body>
+    </html>
+</fest:template>
