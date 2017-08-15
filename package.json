@@ -1,0 +1,15 @@
+{
+  "name": "ExpressFest",
+  "version": "1.0.0",
+  "description": "Express js server with fest mailru template engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ramil Kh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "fest": "^0.12.1"
+  }
+}
