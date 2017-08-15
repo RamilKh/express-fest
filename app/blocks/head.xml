@@ -1,0 +1,11 @@
+<fest:template xmlns:fest="http://fest.mail.ru" context_name="json">
+
+    <head>
+        <meta charset="utf-8" />
+        <title><fest:value>json.title</fest:value></title>
+
+        <link href="" irel="stylesheet" />
+    
+    </head>
+    
+</fest:template>
