@@ -2,15 +2,15 @@
 
 Docs fest template engine https://github.com/mailru/fest
 
-1. Install.
+# 1. Install.
 npm install
 
-2. Use fest-mailru with express js.
+# 2. Use fest-mailru with express js.
 
-# include
+/* include */
 var fest = require('fest');
 
-# rendering
+/* rendering*/
 var params = {
     name: 'index page'
 };
