@@ -1,4 +1,4 @@
-# express-fest
+# Express JS && fest template engine
 
 Docs fest template engine https://github.com/mailru/fest
 
