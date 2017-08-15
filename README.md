@@ -1,6 +1,6 @@
 # express-fest
 
--- https://github.com/mailru/fest
+Docs fest template engine https://github.com/mailru/fest
 
 1. Install.
 npm install
