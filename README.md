@@ -7,10 +7,10 @@ npm install
 
 2. Use fest-mailru with express js.
 
-//include
+# include
 var fest = require('fest');
 
-//rendering
+# rendering
 var params = {
     name: 'index page'
 };
